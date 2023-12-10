@@ -84,15 +84,15 @@ QUEEN NICKY MD CREATE BY MR-DUMIDU
 
 
 
-[![Deploy on Replit](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/github/QUEENNICKYMDv1/QUEEN-NICKY-MD-ERROR-FIX-v1
+[![Deploy on Replit](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/github/QUEEN-NICKY-MD-V1/QUEEN-NICKY-MD
 
 
 
 
 
+## **`QUEEN-NICKY-MD BOT OWNER,`**
 
-
-a href="https://telegra.ph/file/ae42844d1eb41e25b7311.jpg"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
+a href="https://wa.me//+94742443114"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
 
 |**[`MR DUMIDU`](https://wa.me//+94742443114)**|
 
