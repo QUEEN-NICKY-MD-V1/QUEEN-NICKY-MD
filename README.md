@@ -24,23 +24,33 @@ QUEEN NICKY MD CREATE BY MR-DUMIDU
 
 
 
- **`DEPLOYMENT METHODS`**
+ **`𝙌𝙐𝙀𝙀𝙉 𝙉𝙄𝘾𝙆𝙔 𝙈𝘿 𝘿𝙀𝙋𝙇𝙊𝙔 𝙈𝙀𝙏𝙊𝘿𝙎`**
 
 
 
 
 **`FORK ON REPO FRST`**
+
+
+
+
  <a href="https://github.com/QUEEN-NICKY-MD-V1/QUEEN-NICKY-MD/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="FROK QUEEN-NICKY-MD" height="65" width="170" /></a>
 
 
  
  **`SCAN ON QR`**
+
+
+
+ 
  
 **[SCAN QR-CODE](https://replit.com/@QUEENNICKYMDv1/QUEEN-NICKY-MD-V1-QR?v=1)**
 
 
 
 **`DEPLOY ON KOYEB`**
+
+
 
 <br>
 
@@ -51,12 +61,18 @@ QUEEN NICKY MD CREATE BY MR-DUMIDU
 
 **`DEPLOY ON RAILWAY`**
 
+
+
+
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/2B1VYo)
 <br>
 
 
 
 **`DEPLOY ON HEROKU`**
+
+
+
 
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/QUEEN-NICKY-MD-V1/QUEEN-NICKY-MD&template=https://github.com/QUEEN-NICKY-MD-V1/QUEEN-NICKY-MD.git)
 
