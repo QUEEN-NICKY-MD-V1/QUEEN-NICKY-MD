@@ -88,6 +88,23 @@ QUEEN NICKY MD CREATE BY MR-DUMIDU
 
 
 
+## *`⨷ MONGO DB URL GET`*
+
+ ***Mongodb uri from [Clever-Cloud](https://api.clever-cloud.com/v2/session/login).***
+
+***Mongodb uri from [railway.app](https://railway.app).***
+
+━━━━━━━━━━━━━━━
+
+⬇️ 𝙁𝙍𝙀𝙀 𝙈𝙊𝙉𝙂𝙊𝘿𝘽 𝙐𝙍𝙇 ⬇️
+```
+mongodb+srv://Saka:Saka@cluster0.jadwggo.mongodb.net/?retryWrites=true&w=majority
+
+```
+
+
+
+
 
 
 ## **`QUEEN-NICKY-MD BOT OWNER,`**
