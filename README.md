@@ -24,12 +24,12 @@ QUEEN NICKY MD CREATE BY MR-DUMIDU
 
 
 
- **`𝙌𝙐𝙀𝙀𝙉 𝙉𝙄𝘾𝙆𝙔 𝙈𝘿 𝘿𝙀𝙋𝙇𝙊𝙔 𝙈𝙀𝙏𝙊𝘿𝙎`**
+ ## 𝙌𝙐𝙀𝙀𝙉 𝙉𝙄𝘾𝙆𝙔 𝙈𝘿 𝘿𝙀𝙋𝙇𝙊𝙔 𝙈𝙀𝙏𝙊𝘿𝙎
 
 
 
 
-**`FORK ON REPO FRST`**
+## FORK ON REPO FRST
 
 
 
@@ -38,7 +38,7 @@ QUEEN NICKY MD CREATE BY MR-DUMIDU
 
 
  
- **`SCAN ON QR`**
+ ## *`SCAN ON QR'*
 
 
 
@@ -48,7 +48,7 @@ QUEEN NICKY MD CREATE BY MR-DUMIDU
 
 
 
-**`DEPLOY ON KOYEB`**
+## *`DEPLOY ON KOYEB`*
 
 
 
@@ -59,7 +59,7 @@ QUEEN NICKY MD CREATE BY MR-DUMIDU
 
 
 
-**`DEPLOY ON RAILWAY`**
+## *`DEPLOY ON RAILWAY`*
 
 
 
@@ -69,7 +69,7 @@ QUEEN NICKY MD CREATE BY MR-DUMIDU
 
 
 
-**`DEPLOY ON HEROKU`**
+## *`DEPLOY ON HEROKU`*
 
 
 
@@ -77,5 +77,25 @@ QUEEN NICKY MD CREATE BY MR-DUMIDU
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/QUEEN-NICKY-MD-V1/QUEEN-NICKY-MD&template=https://github.com/QUEEN-NICKY-MD-V1/QUEEN-NICKY-MD.git)
 
 <br>
- 
 
+
+
+ ## *`DEPLOY ON REPLIT`*
+
+
+
+[![Deploy on Replit](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/github/QUEENNICKYMDv1/QUEEN-NICKY-MD-ERROR-FIX-v1
+
+
+
+
+
+
+
+a href="https://github.com/prabathLK/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
+
+|**[`MR DUMIDU`](https://wa.me//+94742443114)**|
+
+
+
+**'QUEEN NICKY MD 2023/12/10 RELEASED'**
