@@ -9,7 +9,7 @@
 </p>  
 
 
-QUEEN NICKY MD CREATE BY MR-DUMIDU 
+                           QUEEN NICKY MD CREATE BY MR-DUMIDU 
 
  **`DEPLOYMENT METHODS`**
  
