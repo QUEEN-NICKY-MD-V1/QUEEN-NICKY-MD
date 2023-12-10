@@ -7,12 +7,12 @@ global.owner = process.env.OWNER_NUMBER.split(",")
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority"
 global.port= process.env.PORT || 5000
 global.email = 'sam@secktor.live'
-global.github = 'https://github.com/SamPandey001/Secktor-Md'
+global.github = 'https://github.com/QUEEN-NICKY-MD-V1/QUEEN-NICKY-MD'
 global.location = 'Sultanpur IN'
 global.gurl = 'https://instagram.com/' // add your username
 global.sudo = process.env.SUDO || '919628516236'
 global.devs = '919628516236';
-global.website = 'https://github.com/SamPandey001/Secktor-Md' //wa.me/+91000000000000
+global.website = 'https://queen-nicky-md.vercel.app' //wa.me/+91000000000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/ae42844d1eb41e25b7311.jpg'
 module.exports = {
   botname:   process.env.BOT_NAME === undefined ? '𝐁𝐨𝐭𝐭𝐨' : process.env.BOT_NAME,
@@ -45,7 +45,7 @@ module.exports = {
     API_KEY: process.env.HEROKU_API_KEY === undefined ? '1abfce1e-1bee-4334-9f6c-f4c1cb1cafab' : process.env.HEROKU_API_KEY,
     APP_NAME: process.env.HEROKU_APP_NAME === undefined ? 'zeropgg' : process.env.HEROKU_APP_NAME
 },
-  VERSION: process.env.VERSION === undefined ? 'v.0.0.1' : process.env.VERSION,
+  VERSION: process.env.VERSION === undefined ? 'v.1.0' : process.env.VERSION,
   LANG: process.env.THEME|| 'QUEEN-NICKY',
   WORKTYPE: process.env.WORKTYPE === undefined ? 'public' : process.env.WORKTYPE
 };
