@@ -84,6 +84,8 @@ QUEEN NICKY MD CREATE BY MR-DUMIDU
 
 
 
+
+
 [![Deploy on Replit](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/github/QUEEN-NICKY-MD-V1/QUEEN-NICKY-MD
 
 
