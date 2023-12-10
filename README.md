@@ -92,7 +92,7 @@ QUEEN NICKY MD CREATE BY MR-DUMIDU
 
 
 
-a href="https://github.com/prabathLK/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
+a href="https://telegra.ph/file/ae42844d1eb41e25b7311.jpg"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
 
 |**[`MR DUMIDU`](https://wa.me//+94742443114)**|
 
