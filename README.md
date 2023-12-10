@@ -119,7 +119,17 @@ mongodb+srv://Saka:Saka@cluster0.jadwggo.mongodb.net/?retryWrites=true&w=majorit
 
 ## **`QUEEN-NICKY-MD BOT OWNER,`**
 
-a href="https://wa.me//+94742443114"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
+<br>
+<div>
+<h2 align="center">✊ THANKS FOR YOUR ✊</h2>
+<div align="center">
+<img src="*https://telegra.ph/file/ae42844d1eb41e25b7311.jpg*">
+</div>
+<hr>
+</div>
+</div>
+    </center>
+</body>
 
 |**[`MR DUMIDU`](https://wa.me//+94742443114)**|
 
