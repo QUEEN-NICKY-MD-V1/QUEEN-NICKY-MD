@@ -9,7 +9,20 @@
 </p>  
 
 
-                           QUEEN NICKY MD CREATE BY MR-DUMIDU 
+QUEEN NICKY MD CREATE BY MR-DUMIDU
+
+
+
+
+
+
+![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FprabathLK%2FPRABATH-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+
+![forks](https://img.shields.io/github/forks/prabathLK/PRABATH-MD?label=Forks&style=social)
+
+
+
+
 
  **`DEPLOYMENT METHODS`**
  
