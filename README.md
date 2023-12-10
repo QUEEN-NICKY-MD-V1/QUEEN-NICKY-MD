@@ -43,6 +43,5 @@ QUEEN NICKY MD CREATE BY MR-DUMIDU
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/QUEEN-NICKY-MD-V1/QUEEN-NICKY-MD&template=https://github.com/QUEEN-NICKY-MD-V1/QUEEN-NICKY-MD.git)
 
 <br>
-
  
-<a href="https://github.com/QUEEN-NICKY-MD-V1/QUEEN-NICKY-MD/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="FROK QUEEN-NICKY-MD" height="65" width="170" /></a>
+ <a href="https://github.com/QUEEN-NICKY-MD-V1/QUEEN-NICKY-MD/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="FROK QUEEN-NICKY-MD" height="65" width="170" /></a>
