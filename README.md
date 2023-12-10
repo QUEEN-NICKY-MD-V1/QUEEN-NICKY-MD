@@ -1,8 +1,8 @@
 # QUEEN-NICKY-MD
 
   <p align="center">  
-  <a href="https://telegra.ph/file/798fb30f0ac7e57ce251d.jpg">
-    <img alt="prabath-md" height="300" src="https://telegra.ph/file/798fb30f0ac7e57ce251d.jpg">
+  <a href="https://telegra.ph/file/ae42844d1eb41e25b7311.jpg">
+    <img alt="QUEEN-NICKY-MD" height="300" src="https://telegra.ph/file/ae42844d1eb41e25b7311.jpg">
     
   
   </a>
